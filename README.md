@@ -101,6 +101,6 @@ Se quiser contribuir com este projeto, siga os passos:
 ## 📞 Contato
 Caso tenha dúvidas ou sugestões, entre em contato:
 - **E-mail:** esilvavalencuela@gmail.com
-- **LinkedIn:** [Seu Nome](https://linkedin.com/in/enzo-silva10)
-- **GitHub:** [Seu Usuário](https://github.com/enzovalencuela)
+- **LinkedIn:** [Enzo Silva](https://linkedin.com/in/enzo-silva10)
+- **GitHub:** [Enzo Valençuela](https://github.com/enzovalencuela)
 
