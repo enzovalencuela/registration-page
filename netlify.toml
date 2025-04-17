@@ -1,0 +1,7 @@
+[build]
+command = "npm run build" # Ou yarn build, dependendo do seu gerenciador de pacotes
+publish = "cadastro/dist" # Ou o diretório de build do seu frontend
+functions = "cadastro/functions"
+
+[dev]
+functions = "cadastro/functions"
